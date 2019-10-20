@@ -1,1 +1,2 @@
 # dzx
+主要是看了gmapping算法的大概框架，主要函数就是open-slam里面的processScan函数，就是一个粒子滤波的过程
